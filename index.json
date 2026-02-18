@@ -1,0 +1,11 @@
+{
+  "periods": [
+    {
+      "period": "2025-H1",
+      "validFrom": "2025-01-01",
+      "validTo": "2025-06-30",
+      "file": "rates/2025-H1.json"
+    }
+  ],
+  "lastUpdated": "2026-02-19"
+}

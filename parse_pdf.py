@@ -3,11 +3,12 @@ import json
 import re
 import sys
 import glob
+import os
 from datetime import date
 from pathlib import Path
 
 
-def parse_purification_pdf(pdf_path: str) -> dict:
+def parse_purification_pdf(pdf_path: str) -> list:
     rates = []
     seen_tickers = set()
 
@@ -45,7 +46,7 @@ def parse_purification_pdf(pdf_path: str) -> dict:
                 status_str = status.replace('\n', ' ').strip() if status else ''
                 ratio_str  = ratio.strip() if ratio else 'N/A'
 
-                # Parse ratio — strip footnote digits e.g. "Compliant1" → "Compliant"
+                # Parse ratio value
                 ratio_val = None
                 if ratio_str != 'N/A':
                     match = re.search(r'([\d.]+)%', ratio_str)
@@ -56,42 +57,71 @@ def parse_purification_pdf(pdf_path: str) -> dict:
                 status_clean = re.sub(r'\d+$', '', status_str).strip()
 
                 rates.append({
-                    "ticker":           ticker,
-                    "company":          company,
-                    "purificationRatio": ratio_val,   # percentage e.g. 2.26 means 2.26%
-                    "shariahStatus":    status_clean  # "Compliant" | "Non-Compliant" | "NC by Nature"
+                    "ticker":            ticker,
+                    "company":           company,
+                    "purificationRatio": ratio_val,   # e.g. 2.26 means 2.26%
+                    "shariahStatus":     status_clean  # "Compliant" | "Non-Compliant" | "NC by Nature"
                 })
 
-    # Extract period from filename e.g. "Final-List-of-KMI-30-June-2025.pdf" → "Jun-2025"
-    filename = Path(pdf_path).stem
-    period_match = re.search(r'(\w+)-(\d{4})$', filename)
-    period = f"{period_match.group(1)[:3]}-{period_match.group(2)}" if period_match else "Unknown"
+    return rates
 
-    return {
-        "lastUpdated":  str(date.today()),
-        "period":       period,
-        "totalStocks":  len(rates),
-        "rates":        rates
-    }
+
+def load_index() -> dict:
+    if os.path.exists("index.json"):
+        with open("index.json", "r") as f:
+            return json.load(f)
+    return {"periods": []}
+
+
+def save_index(index: dict):
+    with open("index.json", "w") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
-    # Use path from arg, or find first PDF in current directory
-    if len(sys.argv) > 1:
-        pdf_path = sys.argv[1]
-    else:
-        pdfs = glob.glob("*.pdf")
-        if not pdfs:
-            print("Error: No PDF found. Place a PDF in this directory or pass path as argument.")
-            sys.exit(1)
-        pdf_path = pdfs[0]
+    if len(sys.argv) < 5:
+        print("Usage: python3 parse_pdf.py <pdf_path> <period> <valid_from> <valid_to>")
+        print("Example: python3 parse_pdf.py file.pdf 2025-H1 2025-01-01 2025-06-30")
+        sys.exit(1)
+
+    pdf_path    = sys.argv[1]
+    period      = sys.argv[2]   # e.g. "2025-H1"
+    valid_from  = sys.argv[3]   # e.g. "2025-01-01"
+    valid_to    = sys.argv[4]   # e.g. "2025-06-30"
 
     print(f"Parsing: {pdf_path}")
-    data = parse_purification_pdf(pdf_path)
+    print(f"Period:  {period} ({valid_from} → {valid_to})")
 
-    output_path = "purification-rates.json"
-    with open(output_path, "w") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    rates = parse_purification_pdf(pdf_path)
+    print(f"Parsed:  {len(rates)} stocks")
 
-    print(f"Done. {data['totalStocks']} stocks written to {output_path}")
-    print(f"Period: {data['period']} | Last Updated: {data['lastUpdated']}")
+    # Save period-specific file
+    os.makedirs("rates", exist_ok=True)
+    period_file = f"rates/{period}.json"
+    period_data = {
+        "period":      period,
+        "validFrom":   valid_from,
+        "validTo":     valid_to,
+        "parsedOn":    str(date.today()),
+        "totalStocks": len(rates),
+        "rates":       rates
+    }
+    with open(period_file, "w") as f:
+        json.dump(period_data, f, indent=2, ensure_ascii=False)
+    print(f"Saved:   {period_file}")
+
+    # Update index.json
+    index = load_index()
+    # Remove existing entry for this period if re-running
+    index["periods"] = [p for p in index["periods"] if p["period"] != period]
+    index["periods"].append({
+        "period":    period,
+        "validFrom": valid_from,
+        "validTo":   valid_to,
+        "file":      period_file
+    })
+    # Keep sorted by validFrom
+    index["periods"].sort(key=lambda x: x["validFrom"])
+    index["lastUpdated"] = str(date.today())
+    save_index(index)
+    print(f"Updated: index.json ({len(index['periods'])} period(s) total)")
