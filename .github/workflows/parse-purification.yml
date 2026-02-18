@@ -40,10 +40,11 @@ jobs:
           echo "Parsing: $PDF"
           python3 parse_pdf.py "$PDF" "${{ github.event.inputs.period }}" "${{ github.event.inputs.valid_from }}" "${{ github.event.inputs.valid_to }}"
 
-      - name: Commit updated files
+      - name: Commit rates and remove PDF
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm *.pdf
           git add rates/ index.json
-          git diff --staged --quiet || git commit -m "Add purification rates for ${{ github.event.inputs.period }}"
+          git commit -m "Add purification rates for ${{ github.event.inputs.period }} and remove PDF"
           git push
