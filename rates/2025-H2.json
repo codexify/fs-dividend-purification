@@ -3,2425 +3,2437 @@
   "validFrom": "2025-07-01",
   "validTo": "2025-12-31",
   "parsedOn": "2026-05-23",
-  "totalStocks": 403,
+  "totalStocks": 405,
   "rates": [
     {
       "ticker": "AABS",
       "company": "Al-Abbas Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "22.66%"
+      "purificationRatio": 2.46,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ABOT",
       "company": "Abbott Lab (Pakistan) Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "1.04%"
+      "purificationRatio": 0.63,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ACPL",
       "company": "Attock Cement Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "25.04%"
+      "purificationRatio": 0.06,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ADAMS",
       "company": "Adam Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "8.65%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ADMM",
       "company": "Artistic Denim Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "42.96%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "AGHA",
       "company": "Agha Steel Ind *",
-      "purificationRatio": null,
-      "shariahStatus": "48.50%"
+      "purificationRatio": 0.08,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "AGIL",
       "company": "Agriauto Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "10.01%"
+      "purificationRatio": 0.05,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "AGL",
       "company": "Agritech Limited",
-      "purificationRatio": null,
-      "shariahStatus": "61.38%"
+      "purificationRatio": 6.8,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "AGP",
       "company": "AGP Limited",
-      "purificationRatio": null,
-      "shariahStatus": "7.27%"
+      "purificationRatio": 0.19,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "AGSML",
       "company": "Abdullah Shah Ghazi Sugar Mills",
-      "purificationRatio": null,
-      "shariahStatus": "43.77%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "AGTL",
       "company": "Al-Ghazi Tractors Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "0.21%"
+      "purificationRatio": 0.36,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "AHCL",
       "company": "Arif Habib Corporation Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "8.86%"
+      "purificationRatio": 21.39,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "AHTM",
       "company": "Ahmed Hassan Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "13.06%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "AIRLINK",
       "company": "Air Link Communication Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "32.66%"
+      "purificationRatio": 0.38,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "AKDHL",
       "company": "AKD Hospitality Limited (AKD Capital) *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 28.27,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "AKGL",
       "company": "AL-Khair Gadoon Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "23.18%"
+      "purificationRatio": 0.04,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ALNRS",
       "company": "Al-Noor Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "8.82%"
+      "purificationRatio": 0.05,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ALTN",
       "company": "Altern Energy Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.46,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ANL",
       "company": "Azgard Nine Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "27.24%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ANSM",
       "company": "Ansari Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "64.99%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ANTM",
       "company": "AN Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "20.53%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "APL",
       "company": "Attock Petroleum Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "8.34%"
+      "purificationRatio": 1.18,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ARCTM",
       "company": "Arctic Textile Mills Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ARMG",
       "company": "ARM Green Industries Limited (Calcorp Limited) *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 95.22,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ARPL",
       "company": "Archroma Pakistan Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "1.30%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ASHT",
       "company": "Ashfaq Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.18,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ASL",
       "company": "Aisha Steel Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "29.15%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ASTL",
       "company": "Amreli Steels Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "35.91%"
+      "purificationRatio": 5.27,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ATBA",
       "company": "Atlas Battery Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "21.69%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ATLH",
       "company": "Atlas Honda Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.51%"
+      "purificationRatio": 1.94,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ATRL",
       "company": "Attock Refinery Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.12%"
+      "purificationRatio": 1.92,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "AVN",
       "company": "Avanceon Limited",
-      "purificationRatio": null,
-      "shariahStatus": "9.18%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BAFS",
       "company": "Baba Farid Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "8.17%"
+      "purificationRatio": 0.14,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BAPL",
       "company": "Bawany Air Product Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.34%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "BATA",
       "company": "Bata (Pakistan) Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "32.97%"
+      "purificationRatio": 0.09,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BBFL",
       "company": "Big Bird Foods Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "27.83%"
+      "purificationRatio": 1.39,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BCL",
       "company": "Bolan Castings Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "4.88%"
+      "purificationRatio": 0.27,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BECO",
       "company": "Beco Steel Limited (Ravi Textile) *",
-      "purificationRatio": null,
-      "shariahStatus": "0.07%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BERG",
       "company": "Berger Paints Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "20.27%"
+      "purificationRatio": 0.1,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BFAGRO",
       "company": "Barkat Frisian Agro Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.21%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BFBIO",
       "company": "BF Biosciences Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "18.67%"
+      "purificationRatio": 1.23,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BGL",
       "company": "Balochistan Glass Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "39.39%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "BHAT",
       "company": "Bhanero Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "34.14%"
+      "purificationRatio": 0.29,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BIFO",
       "company": "Biafo Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "12.79%"
+      "purificationRatio": 0.11,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BNL",
       "company": "Bunnys Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "17.67%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BNWM",
       "company": "Bannu Woollen Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "8.42%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BPL",
       "company": "Burshane LPG (Pakistan) Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "30.15%"
+      "purificationRatio": 4.17,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BRRG",
       "company": "B.R.R Guardian Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 6.41,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "BTL",
       "company": "Blessed Textiles Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "29.16%"
+      "purificationRatio": 0.05,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BUXL",
       "company": "Buxly Paints Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BWCL",
       "company": "Bestway Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "13.66%"
+      "purificationRatio": 6.94,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "BWHL",
       "company": "Baluchistan Wheels Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.54%"
+      "purificationRatio": 2.38,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CCM",
       "company": "Crescent Cotton Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "6.82%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CEPB",
       "company": "Century Paper & Board Mills *",
-      "purificationRatio": null,
-      "shariahStatus": "18.28%"
+      "purificationRatio": 0.33,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CHAS",
       "company": "Chashma Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "34.95%"
+      "purificationRatio": 1.5,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CHBL",
       "company": "Chenab Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "97.39%"
+      "purificationRatio": 0.65,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "CHCC",
       "company": "Cherat Cement Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "7.00%"
+      "purificationRatio": 1.79,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CLOV",
       "company": "Clover Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CLVL",
       "company": "Cordoba Logistics *",
-      "purificationRatio": null,
-      "shariahStatus": "36.12%"
+      "purificationRatio": 96.3,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "CNERGY",
       "company": "Cnergyico PK Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "7.36%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "COLG",
       "company": "Colgate Palmolive (Pakistan) *",
-      "purificationRatio": null,
-      "shariahStatus": "1.87%"
+      "purificationRatio": 0.19,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CPHL",
       "company": "Citi Pharma Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "27.85%"
+      "purificationRatio": 0.7,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CPPL",
       "company": "Cherat Packaging Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "16.30%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CRTM",
       "company": "Crescent Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "36.27%"
+      "purificationRatio": 0.12,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CSAP",
       "company": "Crescent Steel & Allied Products *",
-      "purificationRatio": null,
-      "shariahStatus": "3.68%"
+      "purificationRatio": 1.73,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "CTM",
       "company": "Colony Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "45.18%"
+      "purificationRatio": 1.67,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "DAAG",
       "company": "Data Agro Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "29.81%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DADX",
       "company": "Dadex Eternit Limited * ^",
-      "purificationRatio": null,
-      "shariahStatus": "4.34%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DCL",
       "company": "Dewan Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "12.85%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DCR",
       "company": "Dolmen City REIT *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DFSM",
       "company": "Dewan Farooq Spinning Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "10.62%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DGKC",
       "company": "D.G. Khan Cement Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "7.84%"
+      "purificationRatio": 3.36,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DIIL",
       "company": "Diamond Industries *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "DINT",
       "company": "Din Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "3.51%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DLL",
       "company": "Dawood Lawrencepur Limited",
-      "purificationRatio": null,
-      "shariahStatus": "7.19%"
+      "purificationRatio": 12.91,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "DMC",
       "company": "D.M. Corporation Limited.(Formerly D.M. Textile Mills Ltd )*",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DNCC",
       "company": "Dandot Cement Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "33.26%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DOL",
       "company": "Descon Oxychem Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "18.55%"
+      "purificationRatio": 0.42,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "DSIL",
       "company": "DS Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.27%"
+      "purificationRatio": 80.78,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "DYNO",
       "company": "Dynea Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "4.33%"
+      "purificationRatio": 0.6,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ECOP",
       "company": "EcoPack Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "34.89%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "EFERT",
       "company": "Engro Fertilizers Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "11.28%"
+      "purificationRatio": 0.4,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ELCM",
       "company": "Elahi Cotton Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.41%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ELSM",
       "company": "Ellcot Spinning Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "34.61%"
+      "purificationRatio": 0.27,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "EMCO",
       "company": "EMCO Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "24.62%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ENGROH",
       "company": "Engro Holdings Limited (Dawood Hercules Corporation)",
-      "purificationRatio": null,
-      "shariahStatus": "17.51%"
+      "purificationRatio": 1.3,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "EPCL",
       "company": "Engro Polymer & Chemicals",
-      "purificationRatio": null,
-      "shariahStatus": "5.19%"
+      "purificationRatio": 0.13,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "EPQL",
       "company": "Engro Powergen Qadirpur Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "13.86%"
+      "purificationRatio": 3.18,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "EXIDE",
       "company": "Exide Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "13.18%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FASM",
       "company": "Faisal Spinning Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "35.51%"
+      "purificationRatio": 0.22,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FATIMA",
       "company": "Fatima Fertilizer Co. Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "3.22%"
+      "purificationRatio": 0.93,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FCCL",
       "company": "Fauji Cement Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "21.50%"
+      "purificationRatio": 0.57,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FCEPL",
       "company": "Frieslandcampins Engro Foods Limited",
-      "purificationRatio": null,
-      "shariahStatus": "5.92%"
+      "purificationRatio": 0.11,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FCL",
       "company": "Fast Cables Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "1.18%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FDPL",
       "company": "First Dawood Properties Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "25.02%"
+      "purificationRatio": 85.95,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "FECTC",
       "company": "Fecto Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "17.98%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FEROZ",
       "company": "Ferozsons Laboratories Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "10.55%"
+      "purificationRatio": 0.66,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FFC",
       "company": "Fauji Fertilizer Company Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "4.35%"
+      "purificationRatio": 4.97,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FFL",
       "company": "Fauji Foods Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "2.02%"
+      "purificationRatio": 1.44,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FLYNG",
       "company": "FlyIng Cement Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "16.01%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FML",
       "company": "Feroze1888 Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "24.87%"
+      "purificationRatio": 1.32,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FRCL",
       "company": "Frontier Ceramics Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.62%"
+      "purificationRatio": 0.8,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FRSM",
       "company": "Faran Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FZCM",
       "company": "Fazal Cloth Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "26.37%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GADT",
       "company": "Gadoon Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "17.29%"
+      "purificationRatio": 0.13,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GAL",
       "company": "Ghandhara Automobiles Limited (Ghandhara Nissan Ltd) *",
-      "purificationRatio": null,
-      "shariahStatus": "1.96%"
+      "purificationRatio": 0.1,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GATI",
       "company": "Gatron (Industries) Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.66%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GATM",
       "company": "Gul Ahmed Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "30.71%"
+      "purificationRatio": 0.22,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GCIL",
       "company": "Ghani Chemical Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 2.4,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GCWL",
       "company": "Ghani Chemworld Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GFIL",
       "company": "Ghazi Fabrics International Ltd * ^",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GGGL",
       "company": "Ghani Global Glass Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "26.13%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GGL",
       "company": "Ghani Global Holdings Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "16.30%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GHGL",
       "company": "Ghani Glass Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.11%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GHNI",
       "company": "Ghandhara Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.05%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GLAXO",
       "company": "GlaxoSmithKline Pakistan",
-      "purificationRatio": null,
-      "shariahStatus": "0.73%"
+      "purificationRatio": 0.76,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GLPL",
       "company": "Gillette Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "18.50%"
+      "purificationRatio": 0.64,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "GOC",
       "company": "GOC (Pakistan) Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.23,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GTYR",
       "company": "Ghandhara Tyre & Rubber Co. *",
-      "purificationRatio": null,
-      "shariahStatus": "33.63%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GVGL",
       "company": "Ghani Value Glass Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "GWLC",
       "company": "Gharibwal Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "1.86%"
+      "purificationRatio": 1.25,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HABSM",
       "company": "Habib Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "2.69%"
+      "purificationRatio": 2.34,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "HAEL",
       "company": "Hala Enterprises Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "20.90%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HALEON",
       "company": "Haleon Pakistan Limited (Glaxo SmithKline Consumer",
-      "purificationRatio": null,
-      "shariahStatus": "0.92%"
+      "purificationRatio": 1.57,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HCAR",
       "company": "HHeoanldtha cAatrlaes) Cars (Pakistan) Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "4.78%"
+      "purificationRatio": 0.38,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HINO",
       "company": "Hinopak Motors Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "13.45%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HINOON",
       "company": "Highnoon Laboratories Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "2.72%"
+      "purificationRatio": 0.53,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HPL",
       "company": "Hoechst Pakistan Limited (Sanofi Aventis)",
-      "purificationRatio": null,
-      "shariahStatus": "1.80%"
+      "purificationRatio": 0.51,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HRPL",
       "company": "Habib Rice Products Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "12.55%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HTL",
       "company": "Hi-Tech Lubricants Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "23.19%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HUBC",
       "company": "Hub Power Company Ltd * #",
-      "purificationRatio": null,
-      "shariahStatus": "18.84%"
+      "purificationRatio": 7.16,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "HUSI",
       "company": "Husein Industries Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "57.89%"
+      "purificationRatio": 0.06,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "IBFL",
       "company": "Ibrahim Fibres Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "4.19%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "IBLHL",
       "company": "IBL HealthCare Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.49%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ICCI",
       "company": "ICC Industries Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "12.84%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ICL",
       "company": "Ittehad Chemicals Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "14.23%"
+      "purificationRatio": 0.36,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "IDRT",
       "company": "Idrees Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "26.87%"
+      "purificationRatio": 0.33,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "IDSM",
       "company": "Ideal Spinning Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "20.64%"
+      "purificationRatio": 0.15,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "IDYM",
       "company": "Indus Dyeing & Mfg Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "51.74%"
+      "purificationRatio": 0.04,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ILP",
       "company": "Interloop Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "27.50%"
+      "purificationRatio": 0.73,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "IMAGE",
       "company": "Image Pakistan Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "15.14%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "INDU",
       "company": "Indus Motor Company Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.13%"
+      "purificationRatio": 3.99,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "INIL",
       "company": "International Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "12.37%"
+      "purificationRatio": 0.09,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "INKL",
       "company": "International Knitwear Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "36.21%"
+      "purificationRatio": 0.06,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "IPAK",
       "company": "International Packaging Films Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "1.56%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ISIL",
       "company": "Ismail Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "28.30%"
+      "purificationRatio": 0.53,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ISL",
       "company": "International Steels Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "10.61%"
+      "purificationRatio": 0.06,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ITTEFAQ",
       "company": "Ittefaq Iron Industries *",
-      "purificationRatio": null,
-      "shariahStatus": "26.19%"
+      "purificationRatio": 0.08,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "JDMT",
       "company": "Janana De Malucho Textile *",
-      "purificationRatio": null,
-      "shariahStatus": "19.19%"
+      "purificationRatio": 0.11,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "JDWS",
       "company": "JDW Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "19.56%"
+      "purificationRatio": 0.97,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "JKSM",
       "company": "J.K. Spinning Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "37.44%"
+      "purificationRatio": 0.14,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "JSML",
       "company": "Jauharabad Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "12.19%"
+      "purificationRatio": 0.17,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "JVDC",
       "company": "Javedan Corporation Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "7.80%"
+      "purificationRatio": 0.88,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KAPCO",
       "company": "Kot Addu Power Company *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 17.79,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "KCL",
       "company": "Karam Ceramics Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KEL",
       "company": "K-Electric Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "25.92%"
+      "purificationRatio": 0.74,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KOHC",
       "company": "Kohat Cement Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.24%"
+      "purificationRatio": 3.69,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KOHE",
       "company": "Kohinoor Energy Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "14.04%"
+      "purificationRatio": 3.13,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KOHP",
       "company": "Kohinoor Power Company *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 15.78,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "KOHTM",
       "company": "Kohat Textile Mills Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "20.64%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KOIL",
       "company": "Kohinoor Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 36.2,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "KOSM",
       "company": "Kohinoor Spinning Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "82.69%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "KPUS",
       "company": "Khairpur Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "20.61%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KSBP",
       "company": "K.S.B.Pumps Company Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.2,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "KTML",
       "company": "Kohinoor Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "17.71%"
+      "purificationRatio": 2.37,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LCI",
       "company": "Lucky Core Industries Limited (ICI Pakistan) *",
-      "purificationRatio": null,
-      "shariahStatus": "2.80%"
+      "purificationRatio": 0.24,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LEUL",
       "company": "Leather-Up Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.57%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LIVEN",
       "company": "Liven Pharma Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "3.92%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LOADS",
       "company": "Loads Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "32.84%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LOTCHEM",
       "company": "Lotte Chemical Pakistan Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "3.23%"
+      "purificationRatio": 0.58,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LPGL",
       "company": "Leiner Pak Gelatine Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "17.77%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "LPL",
       "company": "Lalpir Power Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 57.14,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "LSECL",
       "company": "LSE Capital Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "2.05%"
+      "purificationRatio": 68.6,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "LUCK",
       "company": "Lucky Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "26.26%"
+      "purificationRatio": 0.27,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MACFL",
       "company": "MACPAC Films Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MACTER",
       "company": "Macter International Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "1.26%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MARI",
       "company": "Mari Energies Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.75%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MEHT",
       "company": "Mehmood Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "33.15%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MERIT",
       "company": "Merit Packaging Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "11.07%"
+      "purificationRatio": 0.74,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MFFL",
       "company": "Mitchell's Fruit Farms Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "17.09%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MFL",
       "company": "Matco Foods Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "32.57%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MIRKS",
       "company": "Mirpurkhas Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "21.02%"
+      "purificationRatio": 0.05,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MLCF",
       "company": "Maple Leaf Cement Factory *",
-      "purificationRatio": null,
-      "shariahStatus": "7.63%"
+      "purificationRatio": 0.46,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MQTM",
       "company": "Maqbool Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "35.14%"
+      "purificationRatio": 0.13,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MRNS",
       "company": "Mehran Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "12.45%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MSCL",
       "company": "Metropolitan Steel Corporation *",
-      "purificationRatio": null,
-      "shariahStatus": "2.78%"
+      "purificationRatio": 0.04,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MSOT",
       "company": "Masood Textile Mills *",
-      "purificationRatio": null,
-      "shariahStatus": "41.67%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "MTL",
       "company": "Millat Tractors Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.62%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MUGHAL",
       "company": "Mughal Iron & Steel Industries *",
-      "purificationRatio": null,
-      "shariahStatus": "16.75%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MWMP",
       "company": "Mandviwala Mauser Plastic Industries *",
-      "purificationRatio": null,
-      "shariahStatus": "24.41%"
+      "purificationRatio": 0.25,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NAGC",
       "company": "Nagina Cotton Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "45.28%"
+      "purificationRatio": 0.05,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "NATF",
       "company": "National Foods Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "16.62%"
+      "purificationRatio": 1.2,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "NCL",
       "company": "Nishat (Chunian) Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "37.98%"
+      "purificationRatio": 0.06,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "NCPL",
       "company": "Nishat Chunian Power Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.55%"
+      "purificationRatio": 5.48,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "NESTLE",
       "company": "Nestle Pakistan Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "3.45%"
+      "purificationRatio": 0.19,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NETSOL",
       "company": "Netsol Technologies Ltd * ##",
-      "purificationRatio": null,
-      "shariahStatus": "5.91%"
+      "purificationRatio": 1.49,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NICL",
       "company": "Nimir Industrial Chemicals Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "38.01%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "NML",
       "company": "Nishat Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "18.21%"
+      "purificationRatio": 1.92,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NONS",
       "company": "Noon Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "31.43%"
+      "purificationRatio": 0.04,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NPL",
       "company": "Nishat Power Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "8.58%"
+      "purificationRatio": 6.47,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "NRL",
       "company": "National Refinery Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "26.75%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NRSL",
       "company": "Nimir Resins Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "21.68%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "NSRM",
       "company": "The National Silk & Rayon Mills *",
-      "purificationRatio": null,
-      "shariahStatus": "3.54%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "OBOY",
       "company": "Oilboy Energy Limited (Drekkar Kingsway Ltd) *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "OCTOPUS",
       "company": "Octopus Digital Limited",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 3.88,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "OGDC",
       "company": "Oil & Gas Development Co. Ltd * ^^^",
-      "purificationRatio": null,
-      "shariahStatus": "0.15%"
+      "purificationRatio": 6.62,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "OML",
       "company": "Olympia Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.46,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "OTSU",
       "company": "Otsuka Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "35.18%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PABC",
       "company": "Pakistan Aluminium Beverages",
-      "purificationRatio": null,
-      "shariahStatus": "17.01%"
+      "purificationRatio": 5.57,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PACE",
       "company": "Pace (Pakistan) Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "50.69%"
+      "purificationRatio": 8.12,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PAEL",
       "company": "Pak Elektron Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "20.88%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PAKD",
       "company": "Pak DataCom Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "6.24%"
+      "purificationRatio": 1.95,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PAKL",
       "company": "Pak Leather Crafts Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "487.43%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PAKOXY",
       "company": "Pakistan Oxygen Limited",
-      "purificationRatio": null,
-      "shariahStatus": "8.31%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PCAL",
       "company": "Pakistan Cables Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "45.74%"
+      "purificationRatio": 0.13,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PIBTL",
       "company": "Pakistan International Bulk Terminal Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "11.88%"
+      "purificationRatio": 0.27,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PICT",
       "company": "Pakistan International Container Terminal",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PIOC",
       "company": "Pioneer Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "6.02%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PKGP",
       "company": "Pakgen Power Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 54.13,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PKGS",
       "company": "Packages Limited",
-      "purificationRatio": null,
-      "shariahStatus": "32.80%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PNSC",
       "company": "Pakistan National Shipping Corporation *",
-      "purificationRatio": null,
-      "shariahStatus": "0.04%"
+      "purificationRatio": 7.74,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "POL",
       "company": "Pakistan Oilfields Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 9.22,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "POML",
       "company": "Punjab Oil Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "16.81%"
+      "purificationRatio": 0.39,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "POWER",
       "company": "Power Cement Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.60%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PPL",
       "company": "Pakistan Petroleum Limited * ^",
-      "purificationRatio": null,
-      "shariahStatus": "0.07%"
+      "purificationRatio": 2.81,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PPP",
       "company": "Pakistan paper products Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "7.95%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PREMA",
       "company": "At-Tahur Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "4.28%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PRET",
       "company": "Premium Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "39.95%"
+      "purificationRatio": 0.03,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PRL",
       "company": "Pakistan Refinery Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "28.81%"
+      "purificationRatio": 0.36,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PRWM",
       "company": "Prosperity Weaving Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "44.51%"
+      "purificationRatio": 0.06,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PSEL",
       "company": "Pakistan Services Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "10.50%"
+      "purificationRatio": 1.24,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PSO",
       "company": "Pakistan State Oil Co. Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "25.16%"
+      "purificationRatio": 0.37,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PSX",
       "company": "Pakistan Stock Exchange Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 40.39,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PSYL",
       "company": "Pakistan Synthetics Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.21%"
+      "purificationRatio": 0.58,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PTC",
       "company": "Pakistan Telecommunication Compnay Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "48.85%"
+      "purificationRatio": 2.01,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "PTL",
       "company": "Panthar Tyres Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "32.84%"
+      "purificationRatio": 0.14,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "QUICE",
       "company": "Quice Food Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "RCML",
       "company": "Reliance Cotton Spinning *",
-      "purificationRatio": null,
-      "shariahStatus": "20.23%"
+      "purificationRatio": 0.1,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "REDCO",
       "company": "Redco Textiles Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.04,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "REWM",
       "company": "Reliance Weaving Mills *",
-      "purificationRatio": null,
-      "shariahStatus": "31.40%"
+      "purificationRatio": 0.18,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "RMPL",
       "company": "Rafhan Maize Products",
-      "purificationRatio": null,
-      "shariahStatus": "1.44%"
+      "purificationRatio": 1.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "RPL",
       "company": "Roshan Packages Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "4.94%"
+      "purificationRatio": 0.22,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "RUPL",
       "company": "Rupali Polyester Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "30.82%"
+      "purificationRatio": 1.79,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SAIF",
       "company": "Saif Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "39.05%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SANSM",
       "company": "Sanghar Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "0.31%"
+      "purificationRatio": 0.05,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SAPT",
       "company": "Sapphire Textile Mills *",
-      "purificationRatio": null,
-      "shariahStatus": "31.36%"
+      "purificationRatio": 1.18,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SARC",
       "company": "Sardar Chemical Industries *",
-      "purificationRatio": null,
-      "shariahStatus": "13.87%"
+      "purificationRatio": 0.19,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SASML",
       "company": "Sindh Abadgar's Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "14.09%"
+      "purificationRatio": 0.21,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SAZEW",
       "company": "Sazgar Engineering Works *",
-      "purificationRatio": null,
-      "shariahStatus": "0.41%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SCL",
       "company": "Shield Corporation Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SEARL",
       "company": "Searle Company Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "3.43%"
+      "purificationRatio": 0.89,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SEL",
       "company": "Sitara Energy Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "20.05%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SEPL",
       "company": "Security Papers Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 6.95,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SERT",
       "company": "Service Industries Textiles Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "3.13%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SFL",
       "company": "Sapphire Fibres Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "15.14%"
+      "purificationRatio": 12.14,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SGF",
       "company": "Service Global Footwear Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "26.30%"
+      "purificationRatio": 0.43,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SGPL",
       "company": "SG Power Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SHCM",
       "company": "Shadman Cotton Mills *",
-      "purificationRatio": null,
-      "shariahStatus": "17.40%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SHDT",
       "company": "Shadab Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "16.53%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SHEZ",
       "company": "Shezan International Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "39.05%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SHFA",
       "company": "Shifa International Hospitals *",
-      "purificationRatio": null,
-      "shariahStatus": "4.49%"
+      "purificationRatio": 0.17,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SHJS",
       "company": "Shahtaj Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "47.49%"
+      "purificationRatio": 0.14,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SHSML",
       "company": "Shahmurad Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "13.45%"
+      "purificationRatio": 0.09,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SIEM",
       "company": "Siemens (Pakistan) Engineering ^",
-      "purificationRatio": null,
-      "shariahStatus": "4.70%"
+      "purificationRatio": 1.95,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SITC",
       "company": "Sitara Chemical Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.33%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SLGL",
       "company": "Secure Logistics Group Limited",
-      "purificationRatio": null,
-      "shariahStatus": "11.02%"
+      "purificationRatio": 0.35,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SMCPL",
       "company": "Safe Mix Concrete Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.42%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SNAI",
       "company": "Sana Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "10.79%"
+      "purificationRatio": 0.02,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SNGP",
       "company": "Sui Northern Gas Pipelines Ltd * ^",
-      "purificationRatio": null,
-      "shariahStatus": "11.18%"
+      "purificationRatio": 1.23,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SPEL",
       "company": "SPEL Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "6.72%"
+      "purificationRatio": 0.79,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SPWL",
       "company": "Saif Power Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "18.25%"
+      "purificationRatio": 6.84,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SRVI",
       "company": "Service Industries Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "36.30%"
+      "purificationRatio": 0.17,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SSGC",
       "company": "Sui Southern Gas Co. Ltd * ^",
-      "purificationRatio": null,
-      "shariahStatus": "10.36%"
+      "purificationRatio": 1.25,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SSOM",
       "company": "S.S. Oil Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "34.89%"
+      "purificationRatio": 0.08,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "STCL",
       "company": "Shabbir Tiles & Ceramics Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "10.85%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "STJT",
       "company": "Shahtaj Textile Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "20.65%"
+      "purificationRatio": 0.1,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "STL",
       "company": "Supernet Technologies Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "STML",
       "company": "Shams Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "35.96%"
+      "purificationRatio": 0.09,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "STPL",
       "company": "Siddiqsons Tin Plate Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "56.91%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "STYLERS",
       "company": "Stylers International Limited (AEL Textile Limited) *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SURC",
       "company": "Suraj Cotton Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "15.37%"
+      "purificationRatio": 0.15,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SUTM",
       "company": "Sunrays Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "37.44%"
+      "purificationRatio": 0.26,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "SYM",
       "company": "Symmetry Group Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "8.89%"
+      "purificationRatio": 0.71,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SYS",
       "company": "Systems Limited",
-      "purificationRatio": null,
-      "shariahStatus": "8.50%"
+      "purificationRatio": 0.09,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SZTM",
       "company": "Shahzad textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "18.03%"
+      "purificationRatio": 0.19,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TATM",
       "company": "TATA Textile Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "27.00%"
+      "purificationRatio": 1.84,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TBL",
       "company": "Treet Battery Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "43.15%"
+      "purificationRatio": 0.85,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "TCORP",
       "company": "Tariq Corporation Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "5.47%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TELE",
       "company": "Telecard Limited * #",
-      "purificationRatio": null,
-      "shariahStatus": "10.31%"
+      "purificationRatio": 0.45,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TGL",
       "company": "Tariq Glass Industries Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.75%"
+      "purificationRatio": 0.27,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "THALL",
       "company": "Thal Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "6.60%"
+      "purificationRatio": 2.65,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "THCCL",
       "company": "Thatta Cement Company *",
-      "purificationRatio": null,
-      "shariahStatus": "6.81%"
+      "purificationRatio": 1.87,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TOMCL",
       "company": "The Organic Meat Company *",
-      "purificationRatio": null,
-      "shariahStatus": "4.57%"
+      "purificationRatio": 0.12,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TOWL",
       "company": "Towellers Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.61%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TPL",
       "company": "TPL Corporation *",
-      "purificationRatio": null,
-      "shariahStatus": "51.72%"
+      "purificationRatio": 27.42,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "TPLP",
       "company": "TPL Properties Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "25.98%"
+      "purificationRatio": 5.97,
+      "shariahStatus": "Non-Compliant"
+    },
+    {
+      "ticker": "TPLRF1",
+      "company": "TPL REIT Fund 1 *",
+      "purificationRatio": 2.12,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TPLT",
       "company": "TPL Trakker Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "38.41%"
+      "purificationRatio": 0.34,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "TREET",
       "company": "Treet Corporation Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "34.64%"
+      "purificationRatio": 0.17,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TRG",
       "company": "TRG Pakistan Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "2.58%"
+      "purificationRatio": 100.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "TRIPF",
       "company": "Tri-Pack Films Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "40.83%"
+      "purificationRatio": 0.07,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "TSML",
       "company": "Tandlianwala Sugar Mills Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "46.62%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "TSPL",
       "company": "Tri-Star Power Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 12.22,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "UBDL",
       "company": "United Brands Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.16,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "UDLI",
       "company": "UDL International Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.00%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "UDPL",
       "company": "United Distributors (Pakistan) Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "0.40%"
+      "purificationRatio": 1.27,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "UNITY",
       "company": "Unity Foods Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "36.76%"
+      "purificationRatio": 0.79,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "UPFL",
       "company": "Unilever Pakistan Foods Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "4.35%"
+      "purificationRatio": 1.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "WAFI",
       "company": "Wafi Energy Pakistan Limited (SHELL PAKISTAN LIMITED)",
-      "purificationRatio": null,
-      "shariahStatus": "9.51%"
+      "purificationRatio": 0.28,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "WAHN",
       "company": "Wah-Noble Chemicals Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "11.71%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "WAVES",
       "company": "Waves Corporation Limited",
-      "purificationRatio": null,
-      "shariahStatus": "29.57%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "WAVESAPP",
       "company": "Waves Home Appliances Limited",
-      "purificationRatio": null,
-      "shariahStatus": "40.98%"
+      "purificationRatio": 0.01,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "WTL",
       "company": "WorldCall Telecom Ltd",
-      "purificationRatio": null,
-      "shariahStatus": "44.20%"
+      "purificationRatio": 0.88,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "YOUW",
       "company": "Yousaf Weaving Mills Ltd *",
-      "purificationRatio": null,
-      "shariahStatus": "43.97%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Non-Compliant"
     },
     {
       "ticker": "ZAL",
       "company": "Zarea Limited *",
-      "purificationRatio": null,
-      "shariahStatus": "0.99%"
+      "purificationRatio": 2.07,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ZIL",
       "company": "ZIL Limited",
-      "purificationRatio": null,
-      "shariahStatus": "5.44%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ZTL",
       "company": "Zephyr Textiles Ltd. *",
-      "purificationRatio": null,
-      "shariahStatus": "30.08%"
+      "purificationRatio": 0.0,
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BFMOD",
       "company": "B.F. Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BIPL",
       "company": "BankIslami Pakistan Ltd **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FABL",
       "company": "Faysal Bank Ltd **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FANM",
       "company": "First Al-Noor Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FECM",
       "company": "First Elite Capital Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FEM",
       "company": "First Equity Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FFLM",
       "company": "First Fidelity Leasing Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FHAM",
       "company": "First Habib Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FIBLM",
       "company": "First IBL Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FIMM",
       "company": "First Imrooz Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FPJM",
       "company": "First Punjab Modaraba ** ^",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FPRM",
       "company": "First Paramount Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FTMM",
       "company": "First Treet Manufacturing Modaraba ** ^",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "FTSM",
       "company": "First Tri-Star Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "MEBL",
       "company": "Meezan Bank Ltd **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "OLPM",
       "company": "OLP Modaraba (Orix Modaraba) **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "ORM",
       "company": "Orient Rental Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "PIM",
       "company": "Popular Islamic Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "SINDM",
       "company": "Sindh Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "TRSM",
       "company": "Trust Modaraba **",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "WASL",
       "company": "Wasl Mobility Modaraba (First Prudential Modaraba ** )",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "Compliant"
+    },
+    {
+      "ticker": "786",
+      "company": "786 Investments Ltd",
+      "purificationRatio": null,
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "ABL",
       "company": "Allied Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "AGIC",
       "company": "Askari General Insurance Co.",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "AHL",
       "company": "Arif Habib Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "AICL",
       "company": "Adamjee Insurance Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "AKBL",
       "company": "Askari Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "AKDSL",
       "company": "AKD Securituies Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "ALAC",
       "company": "Askari Life Assurance Co.",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "ALIFE",
       "company": "Adamjee Life Assurance Company Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "AMBL",
       "company": "Apna Microfinance Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "ATIL",
       "company": "Atlas insurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "BAFL",
       "company": "Bank Alfalah Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "BAHL",
       "company": "Bank Al Habib Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "BML",
       "company": "Bank Makramah Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "BOK",
       "company": "Bank of Khyber",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "BOP",
       "company": "Bank of Punjab",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "CENI",
       "company": "Century Insurance Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "CSIL",
       "company": "Crescent Star Insurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "DEL",
       "company": "Dawood Equities Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "EFUG",
       "company": "EFU General Insurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "EFUL",
       "company": "EFU Life Assurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "ESBL",
       "company": "Escorts Investment Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "FCIBL",
       "company": "First Credit & investment Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "FCSC",
       "company": "First Capital Securities Corp. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "FNEL",
       "company": "First National Equities Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "GRR",
       "company": "Globe Residency Reit",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "GRYL",
       "company": "Grays Leasing Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "HBL",
       "company": "Habib Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "HICL",
       "company": "Habib Insurance Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "HMB",
       "company": "Habib Metropolitan Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "HUMNL",
       "company": "Hum Network Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "ICIBL",
       "company": "Invest Capital Investment Bank",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "IGIHL",
       "company": "IGI Holdings Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "IGIL",
       "company": "IGI Life Insurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "IMS",
       "company": "Intermarket Securities Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "JGICL",
       "company": "Jubilee General insurance Co.",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "JLICL",
       "company": "Jubilee Life Insurance Co.",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "JSBL",
       "company": "JS Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "JSCL",
       "company": "Jahangir Siddiqui & Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "JSGCL",
       "company": "JS Global Capital Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "JSIL",
       "company": "JS Investments Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "KHTC",
       "company": "Khyber Tobacco Company",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "LSEFSL",
       "company": "LSE Financial Service Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "MCB",
       "company": "MCB Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "MCBIM",
       "company": "MCB Investment Management Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "MDTL",
       "company": "Media Times Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "MUREB",
       "company": "Murree Brewery Company",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "NBP",
       "company": "National Bank of Pakistan",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "NEXT",
       "company": "Next Capital Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "OLPL",
       "company": "OLP Financial Services private Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "PAKRI",
       "company": "Pakistan Reinsurance Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "PGLC",
       "company": "Pak- Gulf Leasing Company",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "PINL",
       "company": "Premier Insurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "PKGI",
       "company": "Pakistan General insurance Co.",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "RICL",
       "company": "Reliance Insurance Co Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "SBL",
       "company": "Samba Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "SCBPL",
       "company": "Standard Chartered Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "SHNI",
       "company": "Shaheen Insurance Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "SIBL",
       "company": "Security Investment Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "SNBL",
       "company": "Soneri Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "TPLI",
       "company": "TPL Insurance Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "TPLL",
       "company": "TPL Life Insurance Limited",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "TSBL",
       "company": "Trust Securities & Brokerage",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "UBL",
       "company": "United Bank Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "UNIC",
       "company": "United Insurance Co. of Pakistan",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "UVIC",
       "company": "Universal Insurance Co. Ltd",
       "purificationRatio": null,
-      "shariahStatus": "N/A"
+      "shariahStatus": "NC by Nature"
     },
     {
       "ticker": "UCAPM",
       "company": "Unicap Modaraba",
       "purificationRatio": null,
-      "shariahStatus": "As no recent Shariah certificate is available therefore no shariah opinion is drawn"
+      "shariahStatus": ""
     }
   ]
 }

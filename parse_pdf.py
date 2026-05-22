@@ -8,9 +8,18 @@ from datetime import date
 from pathlib import Path
 
 
+def _detect_format(header_row: list) -> str:
+    """Return 'new' if 11-column screening table, 'old' if 5-column purification table."""
+    cols = [c.replace('\n', ' ').strip() if c else '' for c in header_row]
+    if any('Income Ratio' in c for c in cols):
+        return 'new'
+    return 'old'
+
+
 def parse_purification_pdf(pdf_path: str) -> list:
     rates = []
     seen_tickers = set()
+    fmt = None  # detected on first header row
 
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
@@ -19,22 +28,37 @@ def parse_purification_pdf(pdf_path: str) -> list:
                 continue
 
             for row in table:
-                if not row or len(row) < 5:
+                if not row:
                     continue
 
-                ticker  = row[1]
-                company = row[2]
-                ratio   = row[3]
-                status  = row[4]
-
-                # Skip header row
-                if not ticker or ticker.strip() == "Ticker":
+                # Detect/re-confirm format from header rows
+                if row[1] and str(row[1]).strip() == "Ticker":
+                    fmt = _detect_format(row)
                     continue
 
+                if fmt == 'new':
+                    if len(row) < 11:
+                        continue
+                    ticker  = row[1]
+                    company = row[2]
+                    # Income Ratio (NCInc/TR) is the purification ratio
+                    ratio   = row[6]
+                    status  = row[10]
+                else:
+                    # old format or not yet detected — fall back to old layout
+                    if len(row) < 5:
+                        continue
+                    ticker  = row[1]
+                    company = row[2]
+                    ratio   = row[3]
+                    status  = row[4]
+
+                if not ticker:
+                    continue
                 ticker = ticker.strip()
 
-                # Skip if not a valid PSX ticker (uppercase letters only)
-                if not re.match(r'^[A-Z]+$', ticker):
+                # Skip if not a valid PSX ticker (uppercase letters and digits)
+                if not re.match(r'^[A-Z0-9]+$', ticker):
                     continue
 
                 # Skip duplicates (header repeats on each page)
@@ -48,7 +72,7 @@ def parse_purification_pdf(pdf_path: str) -> list:
 
                 # Parse ratio value
                 ratio_val = None
-                if ratio_str != 'N/A':
+                if ratio_str not in ('N/A', ''):
                     match = re.search(r'([\d.]+)%', ratio_str)
                     if match:
                         ratio_val = float(match.group(1))
