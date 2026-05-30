@@ -16,12 +16,87 @@ def _detect_format(header_row: list) -> str:
     return 'old'
 
 
+def _normalise_status(status: str) -> str:
+    """Return a consistent status value and remove trailing PDF footnote numbers."""
+    status = re.sub(r'\d+$', '', status or '').strip()
+    if status.lower() == 'nc by nature':
+        return 'NC by Nature'
+    return status
+
+
+def _extract_text_only_rows(pdf) -> tuple[dict, list]:
+    """Recover statuses and rows omitted by pdfplumber's table extraction."""
+    statuses = {}
+    extra_rows = []
+    seen_extra_tickers = set()
+    in_etf_section = False
+
+    for page in pdf.pages:
+        for line in (page.extract_text() or '').splitlines():
+            if line == 'EXCHANGE TRADED FUNDS (ETFs)':
+                in_etf_section = True
+                continue
+            if in_etf_section and line.startswith('NOTE:'):
+                in_etf_section = False
+
+            # Standard rows can lose the final status cell when it has a footnote.
+            match = re.match(
+                r'^\d+(?:\s+\d+)?\s+([A-Za-z0-9]+)\s+.+\s+'
+                r'(NC by [Nn]ature|Non-Compliant|Compliant)(?:\s+\d+)?$',
+                line
+            )
+            if match:
+                statuses[match.group(1).upper()] = _normalise_status(match.group(2))
+
+            # The PDF intentionally has no final status for these companies.
+            match = re.match(
+                r'^\d+(?:\s+\d+)?\s+([A-Z0-9]+)\s+(.+?)\s+Compliant\s+'
+                r'As no recent (?:financial|Shariah certificate) .*'
+                r'no shariah opinion is drawn$',
+                line,
+                re.IGNORECASE
+            )
+            if match:
+                ticker, company = match.groups()
+                ticker = ticker.upper()
+                statuses[ticker] = 'No Shariah Opinion'
+                if ticker not in seen_extra_tickers:
+                    extra_rows.append({
+                        "ticker": ticker,
+                        "company": company.strip(),
+                        "purificationRatio": None,
+                        "shariahStatus": "No Shariah Opinion"
+                    })
+                    seen_extra_tickers.add(ticker)
+
+            if in_etf_section:
+                match = re.match(
+                    r'^\d+\s+([A-Z0-9]+)\s+(.+?)\s+(Non-Compliant|Compliant)$',
+                    line
+                )
+                if match:
+                    ticker, company, status = match.groups()
+                    ticker = ticker.upper()
+                    if ticker not in seen_extra_tickers:
+                        extra_rows.append({
+                            "ticker": ticker,
+                            "company": company.strip(),
+                            "purificationRatio": None,
+                            "shariahStatus": status
+                        })
+                        seen_extra_tickers.add(ticker)
+
+    return statuses, extra_rows
+
+
 def parse_purification_pdf(pdf_path: str) -> list:
     rates = []
     seen_tickers = set()
     fmt = None  # detected on first header row
 
     with pdfplumber.open(pdf_path) as pdf:
+        text_statuses, text_only_rows = _extract_text_only_rows(pdf)
+
         for page in pdf.pages:
             table = page.extract_table()
             if not table:
@@ -34,6 +109,10 @@ def parse_purification_pdf(pdf_path: str) -> list:
                 # Detect/re-confirm format from header rows
                 if row[1] and str(row[1]).strip() == "Ticker":
                     fmt = _detect_format(row)
+                    continue
+
+                # Ignore front matter until a real screening table header is found.
+                if fmt is None:
                     continue
 
                 if fmt == 'new':
@@ -55,9 +134,9 @@ def parse_purification_pdf(pdf_path: str) -> list:
 
                 if not ticker:
                     continue
-                ticker = ticker.strip()
+                ticker = ticker.strip().upper()
 
-                # Skip if not a valid PSX ticker (uppercase letters and digits)
+                # Skip if not a valid PSX ticker after normalising PDF casing.
                 if not re.match(r'^[A-Z0-9]+$', ticker):
                     continue
 
@@ -77,15 +156,21 @@ def parse_purification_pdf(pdf_path: str) -> list:
                     if match:
                         ratio_val = float(match.group(1))
 
-                # Normalise status — remove trailing footnote numbers
-                status_clean = re.sub(r'\d+$', '', status_str).strip()
+                status_clean = _normalise_status(status_str)
+                if not status_clean:
+                    status_clean = text_statuses.get(ticker, '')
 
                 rates.append({
                     "ticker":            ticker,
                     "company":           company,
                     "purificationRatio": ratio_val,   # e.g. 2.26 means 2.26%
-                    "shariahStatus":     status_clean  # "Compliant" | "Non-Compliant" | "NC by Nature"
+                    "shariahStatus":     status_clean  # Includes "No Shariah Opinion" when PSX gives no opinion
                 })
+
+        for row in text_only_rows:
+            if row["ticker"] not in seen_tickers:
+                rates.append(row)
+                seen_tickers.add(row["ticker"])
 
     return rates
 
