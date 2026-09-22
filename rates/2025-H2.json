@@ -2,7 +2,7 @@
   "period": "2025-H2",
   "validFrom": "2025-07-01",
   "validTo": "2025-12-31",
-  "parsedOn": "2026-05-30",
+  "parsedOn": "2026-09-22",
   "totalStocks": 546,
   "rates": [
     {
@@ -345,7 +345,7 @@
       "ticker": "BRRG",
       "company": "B.R.R Guardian Limited *",
       "purificationRatio": 6.41,
-      "shariahStatus": "Non-Compliant"
+      "shariahStatus": "Compliant"
     },
     {
       "ticker": "BTL",
